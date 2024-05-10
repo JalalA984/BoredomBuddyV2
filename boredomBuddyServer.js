@@ -30,14 +30,14 @@ app.get("/", (request, response) => {
 
 app.get("/main", (request, response) => {
     const variables = {
-        portNum: portNumber
+        
     };
     response.render("main", variables);
 });
 
 app.get("/join", (request, response) => {
     const variables = {
-        portNum: portNumber
+        
     };
     response.render("join", variables);
 });
@@ -58,7 +58,7 @@ app.post("/processJoin", (request, response) => {
 
 app.get("/activityForm", (request, response) => {
     const variables = {
-        portNum: portNumber
+        
     };
     response.render("activityForm", variables);
 });
