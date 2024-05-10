@@ -17,7 +17,7 @@
             <div class="card-body">
 
                 <h2 class="card-title">Input Info</h2>
-                <form id="activityForm" action="http://localhost:<%= portNum %>/processActivity" method="post">
+                <form id="activityForm" action="./processActivity" method="post">
 
                     <!-- Email is the only field we need to verify that user exists within database, thus we assume emails unique -->
                     <label>Email Address: <input type="email" name="email"></label>
