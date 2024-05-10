@@ -10,6 +10,6 @@
 
 **APIs:** Bored API (<https://www.boredapi.com/>)
 
-**Web App Hosted Link:** <https://boredombuddyv2.onrender.com/>
+**Hosted Web App Link:** <https://boredombuddyv2.onrender.com/>
 
 **Contact Email:** <jahmad1@terpmail.umd.edu>
