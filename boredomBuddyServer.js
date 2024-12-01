@@ -1,7 +1,8 @@
 const express = require("express");
 const app = express();
 const axios = require('axios');
-const url_API = "http://www.boredapi.com/api/activity/"
+// const url_API = "http://www.boredapi.com/api/activity/" prior to 11/30/2024
+const url_API = "https://bored-api.appbrewery.com/random"
 const path = require("path");
 
 /* For http post */
