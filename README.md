@@ -8,7 +8,7 @@
 
 **YouTube Video Link:** <https://youtu.be/cUViG3ex7fY>
 
-**APIs:** Bored API (<https://www.boredapi.com/>)
+**APIs:** Bored API (<https://bored-api.appbrewery.com/>)
 
 **Hosted Web App Link:** <https://boredombuddyv2.onrender.com/>
 
